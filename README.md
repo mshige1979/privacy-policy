@@ -12,6 +12,7 @@ App Store / Google Play やアプリ内のリンク先として、ここで公�
 | 血圧管理アプリ | 血圧記録・服薬リマインダーアプリ向け。端末内保存／HealthKit 連携について記載。 | https://mshige1979.github.io/privacy-policy/bp-manager-policy/ | [bp-manager-policy/index.html](bp-manager-policy/index.html) |
 | WarikanApp（割り勘アプリ） | 割り勘計算アプリ向け。データは端末内のみに保存し、外部送信・第三者提供なし。 | https://mshige1979.github.io/privacy-policy/warikan-app-policy/ | [warikan-app-policy/index.html](warikan-app-policy/index.html) |
 | ステージホッパー | ゲームアプリ向け。情報収集なし・広告識別子の取得なし・第三者提供なし。<br>[サポートページ](https://mshige1979.github.io/privacy-policy/stage-hopper-policy/support/)あり。 | https://mshige1979.github.io/privacy-policy/stage-hopper-policy/ | [stage-hopper-policy/index.html](stage-hopper-policy/index.html)<br>[support/index.html](stage-hopper-policy/support/index.html) |
+| ICりれき（交通系IC履歴リーダー） | 交通系ICカードの利用履歴を NFC で読み取るアプリ向け。端末内保存のみ・外部送信なし・カード固有番号はハッシュ化して保持。<br>[サポートページ](https://mshige1979.github.io/privacy-policy/transit-ic-reader-policy/support/)あり。 | https://mshige1979.github.io/privacy-policy/transit-ic-reader-policy/ | [transit-ic-reader-policy/index.html](transit-ic-reader-policy/index.html)<br>[support/index.html](transit-ic-reader-policy/support/index.html) |
 
 ## 仕組み
 
